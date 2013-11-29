@@ -1,0 +1,212 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#main{
+	height: 1420px;
+	width: 1335px;
+	margin: 0 auto;
+	background-color:yellow;
+	position: relative;
+	background-image:url(2.png);
+	background-repeat: repeat;
+}
+#head{
+	height:30px;
+	width:1335px;
+	position: relative;
+	background-color:blue;
+	background-image:url(1.png);
+	background-repeat: repeat;
+}
+#head p{
+	position: absolute;
+	left:170px;
+	top:4px;
+}
+#head span{
+	position: absolute;
+	left:1100px;
+}
+#top{
+	height:600px;
+	width:980px;
+	position: absolute;
+	background-color:url(2.png);
+	left:170px;
+}
+.p1{
+	position: absolute;
+	top: 37px;
+}
+.p2{
+	position: absolute;
+	top: 68px;
+}
+.search{
+	width: 260px;
+	height:35px;
+}
+.search_span1 input{
+	height:33px;
+	width:217px;
+	position: absolute;
+	left: 720px;
+	top: 37px;
+}.search_span2{
+	position: absolute;
+	left: 935px;
+	top: 35px;
+}
+#line{
+	width: 980px;
+	height:80px;
+	top: 103px;
+	position: absolute;
+	background-color:red;
+}
+#line ul li{
+	height:80px;
+	width: 140px;
+	background-color:yellow;
+	float:left;
+	position: relative;
+	background-image:url(4.png);
+}
+#line ul li a{
+	display: block;
+	height: 78px;
+	width: 138px;
+	float:left;
+	border:1px solid black;
+	text-align: center;
+	text-decoration:none;
+	line-height:70px;
+}
+#line ul li a:hover {
+	background-image:url(5.png);
+}
+#div1{
+	position: absolute;
+	top:190px;
+	width:980px;
+	height:360px;
+	background-image:url(11.png);
+}
+.button input{
+	position: relative;
+	top: 600px;
+	left: 420px;
+}
+#div2{
+	position: absolute;
+	top:190px;
+	width:980px;
+	height:360px;
+	background-image:url(22.png);
+}
+#div3{
+	position: absolute;
+	top:190px;
+	width:980px;
+	height:360px;
+	background-image:url(33.png);
+}
+#top_foot{
+	position: absolute;
+	width:980px;
+	height:55px;
+	top:550px;
+	background-color:#272727;
+	text-align:center;
+	line-height:50px;
+}
+.watch{
+	width:115px;
+	height:31px;
+	position: absolute;
+	left:700px;
+	top: 560px;
+	background-image:url(8.png);
+	text-align:center;
+	line-height: 30px;
+}
+#body{
+	width:980px;
+	height:638px;
+	background-image:url(1.png);
+	background-repeat: repeat;
+	position: relative;
+	left: 170px;
+	top: 675px;
+}
+.text{
+	width:980px;
+	height:440px;
+	background-image:url(1.png);
+	background-repeat: repeat;
+}
+.text1{
+	position: absolute;
+	width:650px;
+	height:240px;
+	background-image:url(1.png);
+	background-repeat: repeat;
+}
+.text2{
+	position: absolute;
+	top: 240px;
+	width:650px;
+	height:200px;
+	background-image:url(1.png);
+	background-repeat: repeat;
+}
+.text3{
+	position: absolute;
+	left: 680px;
+	width:300px;
+	height:240px;
+	background-image:url(1.png);
+	background-repeat: repeat;
+}
+.text4{
+	position: absolute;
+	left: 680px;
+	top: 240px;
+	width:300px;
+	height:200px;
+	background-image:url(1.png);
+	background-repeat: repeat;
+}
+.map{
+	position: absolute;
+	width:289px;
+	height:153px;
+	top: 453px;
+	left: 680px;
+	background-image:url(9.png);
+}
+.gun{
+	position: absolute;
+	top: 440px;
+	width:650px;
+	height:180px;
+	background-image:url(10.png);
+	background-repeat:repeat;
+}
+.gundong{
+	position: absolute;
+	top: 455px;
+	width:600px;
+	left:25px;
+}
+#foot{
+	width:980px;
+	height:76px;
+	background-image:url(2.png);
+	position: absolute;
+	left: 170px;
+	top:1344px;
+	text-align:center;
+	line-height: 80px;
+}
